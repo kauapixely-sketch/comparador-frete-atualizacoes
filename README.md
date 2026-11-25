@@ -1,0 +1,1 @@
+# comparador-frete-atualizacoes
